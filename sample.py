@@ -1,5 +1,5 @@
-a=12
-b=22
+a=14
+b=26
 sum=a+b
 print(sum)
 
