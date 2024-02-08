@@ -1,5 +1,8 @@
+
 a=14
 b=26
-sum=a+b
+c=12
+d=25
+sum=a+b+c+d
 print(sum)
 
